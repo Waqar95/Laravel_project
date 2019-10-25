@@ -1,0 +1,4 @@
+Obviously, we can create and push a new branch to the remote to make our work
+public and visible to other collaborators. For instance, I will create a new branch for
+my frst recipe; then, I will push this branch to the remote GitHub server. Follow
+these simple steps:
